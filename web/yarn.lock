@@ -74,9 +74,9 @@
     vfile "^6.0.1"
 
 "@astrojs/netlify@^5.1.2":
-  version "5.1.2"
-  resolved "https://registry.yarnpkg.com/@astrojs/netlify/-/netlify-5.1.2.tgz#fb36f69e80f86e914cf67196ba51c0d9cda44faf"
-  integrity sha512-capy8kLSgv4qryZ7rski+Qt1EnDs/l+VCzhGBtYuUbuShGhadPRRTQmxgIlUfWpblEd3vHtmkJDg3mxxyFsEqg==
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/@astrojs/netlify/-/netlify-5.2.0.tgz#9a695759a884c47cc3c1a75edea756bfe3ba0157"
+  integrity sha512-NFg3AdUToV7kbY5w2yHZY5UskqfsmIo9i0zIzQ2GgUcTwjyZCekZ89DLtKCJ1jFVle+QXJGsJAS61EYyptBDBQ==
   dependencies:
     "@astrojs/underscore-redirects" "^0.3.3"
     "@netlify/functions" "^2.0.1"
